@@ -31,6 +31,9 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é um clone da plataforma Netfli
 <br>
 
 ##  🍿 Demo da Aplicação:
+<p align="center">
+   &nbsp;&nbsp;  <a align="center" href="https://netflix-clone-seven-lake.vercel.app"><i><b>ACESSE A APLICAÇÃO AQUI</a> &nbsp;&nbsp;</b></i>
+</p>
 
 <p align="center">
   <img alt="Tela Netflix Clone" src="./public/imagem_2022-06-24_103436996.png" height=450/>
