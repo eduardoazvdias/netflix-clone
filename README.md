@@ -30,7 +30,7 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é um clone da plataforma Netfli
 
 <br>
 
-##  :video_game: Demo do jogo:
+##  🍿 Demo da Aplicação:
 
 <p align="center">
   <img alt="Tela Netflix Clone" src="./imgs-game/jogo2.PNG" height=400/>
